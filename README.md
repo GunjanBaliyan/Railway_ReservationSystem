@@ -7,6 +7,7 @@ A)This railway reservation system has a login platform first where you have to l
                        ENTER USERNAME:-
  here you have to enter a correct username and password to login.
 B)Then, you are given with some options there-
+
 1.1>> Reserve A Ticket
 ------------------------
 2>> View All Available Trains
